@@ -6,4 +6,5 @@
 
 ---
 
-![patika-binary_search_tree_projesi](https://user-images.githubusercontent.com/43906927/153730686-49dd023c-248f-4c97-9e1e-31589af2533a.JPG)
+![patika-merge_sort_projesi JPG](https://user-images.githubusercontent.com/43906927/153730773-cf56be66-2e38-4d2b-aad7-a61773868bcc.jpg)
+
